@@ -6,7 +6,7 @@ language: python
 buildSystem: ''
 buildSystemDetails:
   artefactID: erphvrpoc
-  parentArtefactID: ''
+  parentArtefactID: santoshcloudaeonnetteam
   buildSystem: wheel
   author: null
   createdAt: '2024-07-26 17:06:54'
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: '3.10'
+  gemLibsVersion: 1.3.4.0
   gems: {}
   dependencies: null
 functions:
